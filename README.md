@@ -8,5 +8,5 @@ The opening timeline divides the games based on years and by genre (2D platformi
 
 These summary videos were created and edited by me. I also added customized thumbnails for each video. In terms of graphics, I created the icons for each game on the main timeline page and used an online font generator to add in customized “Super Mario” font to the opening title screen. In addition, I edited a number of images in order to give them transparent backgrounds, especially for the new characters and Mario powerup/costume images. Lastly, I edited down clips of certain videos so that they would apply better to the user’s intended learning purpose. These edited clips include the “Super Mario Sunshine – Voice Acting Clip” and the “Super Mario Galaxy – Walking Around Planets Clip.” All custom edited clips and video summaries are uploaded to YouTube under the YouTube profile account: “Danny Nsouli.”
 
-#Instructional Video
+## Instructional Video
 For a quick peek into the application, click on the instructional video for a narrated walkthrough. 
