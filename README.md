@@ -10,3 +10,5 @@ These summary videos were created and edited by me. I also added customized thum
 
 ## Instructional Video
 For a quick peek into the application, click on the instructional video for a narrated walkthrough. 
+
+The video can also be found on YouTube here: https://youtu.be/09EASVULrF0
